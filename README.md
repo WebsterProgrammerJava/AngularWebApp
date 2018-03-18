@@ -1,2 +1,0 @@
-# AngularWebApp
-Projeto Teste Angular
